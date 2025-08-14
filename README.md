@@ -21,7 +21,7 @@
 `Transformers` `BERT` `RAG` `CNNs` `Scikit-learn` `OpenCV` `Streamlit`  
 
 **NLP & Conversational AI:**  
-`LangChain` `Hugging Face` `GPT-based Agents` `Vector Databse`  
+`LangChain` `Hugging Face` `GPT-based Agents` `Vector Database`  
 
 **Cloud & MLOps:**  
 `Azure AI` `AWS` `Docker`
