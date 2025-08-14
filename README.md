@@ -18,13 +18,13 @@
 `Python` `C++` `Java`  
 
 **Machine Learning & AI:**  
-`Transformers` `BERT` `RAG` `CNNs` `Scikit-learn` `OpenCV`  
+`Transformers` `BERT` `RAG` `CNNs` `Scikit-learn` `OpenCV` `Streamlit`  
 
 **NLP & Conversational AI:**  
-`LangChain` `Hugging Face` `GPT-based Agents` `Semantic Search`  
+`LangChain` `Hugging Face` `GPT-based Agents` `Vector Databse`  
 
 **Cloud & MLOps:**  
-`Azure AI` `AWS` `Docker` `Streamlit`  
+`Azure AI` `AWS` `Docker`
 
 **Other Tools & Skills:**  
 `FAISS` `Matplotlib` `GitHub` `Data Visualization` `Problem Solving`  
